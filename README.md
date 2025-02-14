@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- A Student Majoring in Software Engineering at Zhejiang University, China.
+- 🔭 I’m a Student Majoring in Software Engineering at Zhejiang University, China.
+
+
+### GitHub Stats
+
 
 [![Sparkle79's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparkle6979&show_icons=true)](https://github.com/Sparkle6979?tab=repositories)
 
