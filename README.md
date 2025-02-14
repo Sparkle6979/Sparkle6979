@@ -1,4 +1,4 @@
-## A Developer Interested in Philosophy And Reasoning
+## A Simple Developer
 
 <!--
 **Sparkle6979/Sparkle6979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
