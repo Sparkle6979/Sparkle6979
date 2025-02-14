@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+- A student majoring in Software Engineering at Zhejiang University, China.
 
 [![Sparkle79's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparkle6979&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
