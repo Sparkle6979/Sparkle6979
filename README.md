@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparkle6979&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### Connect with Me
 <a href="mailto:648941183@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-liuhl79@163.com-blue?style=flat-square&logo=gmail"></a>
