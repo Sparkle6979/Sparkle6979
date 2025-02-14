@@ -16,17 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-- A developer who interested in philosophy and reasoning
+- A Developer Interested in Philosophy And Reasoning
 
 
 [![Sparkle79's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparkle6979&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### My Skill Set
-
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## Test
+### Development Language
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparkle6979&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
