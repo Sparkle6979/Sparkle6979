@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a Student Majoring in Software Engineering at Zhejiang University, China.
+- 🌱 I currently work on backend Software Engineer at Alibaba International
 
 
 ### GitHub Stats
