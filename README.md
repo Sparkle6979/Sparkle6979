@@ -2,7 +2,7 @@ Backend engineer at Alibaba International. Ad platform.
 
 M.S. Zhejiang University · B.S. Zhengzhou University
 
-**Interests:** AI capability boundaries, philosophy, the line between humans and tools.
+**INTERESTS: AI CAPABILITY BOUNDARIES, PHILOSOPHY, THE LINE BETWEEN HUMANS AND TOOLS.**
 
 [PhilosophySayings](https://github.com/Sparkle6979/PhilosophySayings) — Cross-platform philosophy app (Flutter)
 
