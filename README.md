@@ -1,4 +1,4 @@
-Backend engineer at Alibaba International. Ad platform infrastructure.
+Backend engineer at Alibaba International. Ad platform.
 
 M.S. Zhejiang University · B.S. Zhengzhou University
 
