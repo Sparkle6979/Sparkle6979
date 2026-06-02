@@ -6,4 +6,4 @@ M.S. Zhejiang University · B.S. Zhengzhou University
 
 [spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) — Contributed OneNote Document Reader
 
-Previously: RoboCup China Open 2020 Champion · Qiniu 1024 Creator Festival Top 10%
+Previously: RoboCup China Open 2020 Champion · [Qiniu 1024 Creator Festival Top 10%](https://github.com/Sparkle6979/VideoPlayer)
