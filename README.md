@@ -2,6 +2,8 @@ Backend engineer at Alibaba International. Ad platform infrastructure.
 
 M.S. Zhejiang University · B.S. Zhengzhou University
 
+Interests: AI capability boundaries, philosophy, the line between humans and tools.
+
 [PhilosophySayings](https://github.com/Sparkle6979/PhilosophySayings) — Cross-platform philosophy app (Flutter)
 
 [spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) — Contributor
