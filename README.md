@@ -1,13 +1,20 @@
-Backend engineer at Alibaba International. Ad platform.
+Software engineer exploring AI agents, developer tools, and creative engineering.
 
-M.S. Zhejiang University · B.S. Zhengzhou University
+I care about tools that help people think, build, and remain imaginative in a world that often turns work into metrics and processes.
 
-**INTERESTS: Existential philosophy, the human condition, thinking in a world of tools.**
+Recently, I have been spending more time with:
 
-[PhilosophySayings](https://github.com/Sparkle6979/PhilosophySayings) — Cross-platform philosophy app (Flutter)
+- AI Coding / Code Agents
+- open-source agent frameworks
+- developer experience and engineering abstractions
+- reading, writing, and thinking around philosophy, technology, and the human condition
 
-[spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) — Contributor
+Some traces:
 
-[agentscope-java](https://github.com/agentscope-ai/agentscope-java) — Contributor
+[PhilosophySayings](https://github.com/Sparkle6979/PhilosophySayings) — a small cross-platform philosophy app
 
-Previously: RoboCup China Open 2020 Champion · [Qiniu 1024 Creator Festival Top 10%](https://github.com/Sparkle6979/VideoPlayer)
+[agentscope-java](https://github.com/agentscope-ai/agentscope-java) — open-source contribution around agent infrastructure
+
+[spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) — open-source contribution around AI application development
+
+Writing: [Sparkle79's Field](https://slspk.ltd)
