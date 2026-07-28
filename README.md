@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://slspk.ltd/">Writing</a> ·
   <a href="https://github.com/Sparkle6979/PhilosophySayings">PhilosophySayings</a>
 </p>
 
